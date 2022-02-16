@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/Desktop/DeepikaProjects/NewsApp/app/src/main/res/drawable/bg_outline_gray.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/User/Desktop/DeepikaProjects/NewsApp/app/src/main/res/drawable/ic_google_icon.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/User/Desktop/DeepikaProjects/NewsApp/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/User/Desktop/DeepikaProjects/NewsApp/app/src/main/res/layout/activity_log_in.xml" value="0.184375" />
+        <entry key="..\:/Users/User/Desktop/DeepikaProjects/NewsApp/app/src/main/res/layout/activity_news_detail2.xml" value="0.184375" />
+        <entry key="..\:/Users/User/Desktop/DeepikaProjects/NewsApp/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/User/Desktop/DeepikaProjects/NewsApp/app/src/main/res/layout/book_mark_fragment.xml" value="0.184375" />
+        <entry key="..\:/Users/User/Desktop/DeepikaProjects/NewsApp/app/src/main/res/layout/dialog_progress.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/User/Desktop/DeepikaProjects/NewsApp/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/DeepikaProjects/NewsApp/app/src/main/res/layout/item_news_list.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
